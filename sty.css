@@ -1,0 +1,21 @@
+.menu .block ul li{
+    margin-top: 20px;
+    margin-left: -25px;
+    list-style: none;
+}
+.menu .block ul li a{
+    padding: 2px 30px;
+    margin-right: 100px;
+    text-decoration: none;
+    color: blanchedalmond;
+    background: rgb(70, 146, 103);
+    border-radius: 10px;
+    border: 1px solid #fff;
+    font-size: 18px;
+    /* font-family: ; */
+}
+.menu .block ul li a:hover{
+    color: rgb(173, 220, 238);
+    background: rgb(123, 156, 146);
+    border: rgb(98, 238, 184) 1px solid;
+}
